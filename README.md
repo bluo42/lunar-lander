@@ -8,5 +8,6 @@ This repository contains the implementation of two reinforcement learning algori
 - Implementation of Deep SARSA with a neural network
   
 ## Usage
-To run the discretized Q-learning use QLearner.py
-To run Deep SARSA use p2_sarsa_nn.py
+
+- To run the discretized Q-learning use QLearner.py
+- To run Deep SARSA use p2_sarsa_nn.py
